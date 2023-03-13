@@ -1,6 +1,6 @@
 # Arduino 101
 
-![arduino logo](assets\img\arduino-logo.png)
+![arduino logo](./assets\img\arduino-logo.png)
 
 This repo will be used to document my journey towards learning Arduino.
 
