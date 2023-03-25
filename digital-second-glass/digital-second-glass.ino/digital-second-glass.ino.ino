@@ -61,11 +61,11 @@ void loop() {
 
   // read the switch value
   switchState = digitalRead(switchPin);
-  Serial.println(switchState);
 
   // if the switch has changed
   if (switchState != prevSwitchState) {
     // turn all the LEDs low
+    Serial.println("The button has been pressed");
     for (int x = 2; x < 8; x++) {
       digitalWrite(x, LOW);
     }
