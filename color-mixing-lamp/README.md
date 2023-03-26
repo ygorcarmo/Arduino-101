@@ -11,7 +11,7 @@
 
 ## Instructions
 
-Wire up the breadboard and arduino as per the book diagram, and upload the [code](./color-mixing-lamp.ino) to your arduino uno.
+Wire up the breadboard and arduino as per the [book](https://store.arduino.cc/products/arduino-starter-kit-multi-language) diagram, and upload the [code](./color-mixing-lamp.ino) to your arduino uno.
 
 ## Expected outcome
 
