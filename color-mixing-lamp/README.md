@@ -15,4 +15,4 @@ Wire up the breadboard and arduino as per the [book](https://store.arduino.cc/pr
 
 ## Expected outcome
 
-![color-mixing-lamp](https://github.com/ygorcarmo/arduino-starter-kit/blob/main/assets/videos/color-mixing-lamp.MOV)
+![color-mixing-lamp](../assets/videos/color-mixing-lamps.gif)
