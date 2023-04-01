@@ -12,6 +12,7 @@ This repo will be used to document my journey towards learning Arduino.
 - [Mood cue](./servo-mood-indicator/README.md)
 - [Digital Secondglass](./digital-second-glass/README.md)
 - [Motorized Pinwheel](./motorized-pinwheel/README.md)
+- [Zoeprote](./zoetrope/README.md)
 
 # Notes
 
