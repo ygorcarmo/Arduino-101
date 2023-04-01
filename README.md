@@ -11,6 +11,7 @@ This repo will be used to document my journey towards learning Arduino.
 - [Color Mixing Lamp](./color-mixing-lamp/README.md)
 - [Mood cue](./servo-mood-indicator/README.md)
 - [Digital Secondglass](./digital-second-glass/README.md)
+- [Motorized Pinwheel](./motorized-pinwheel/README.md)
 
 # Notes
 
