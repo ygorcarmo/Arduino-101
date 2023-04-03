@@ -14,6 +14,7 @@ This repo will be used to document my journey towards learning Arduino.
 - [Motorized Pinwheel](./motorized-pinwheel/README.md)
 - [Zoeprote](./zoetrope/README.md)
 - [Crystal Ball](./crystal-ball/README.md)
+- [Knock Lock](./knock-lock/README.md)
 
 # Notes
 
