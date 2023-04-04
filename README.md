@@ -15,6 +15,7 @@ This repo will be used to document my journey towards learning Arduino.
 - [Zoeprote](./zoetrope/README.md)
 - [Crystal Ball](./crystal-ball/README.md)
 - [Knock Lock](./knock-lock/README.md)
+- [Touch Sensor Lamp](./touch-sensor-lamp/README.md)
 
 # Notes
 
